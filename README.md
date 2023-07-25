@@ -52,9 +52,9 @@ If you do not have a preferred environment then we suggest following along exact
 
 Most of your work going forward will take place away from your Skills repository, so before continuing with the course ensure you have the following installed on your **local machine**.
 
-1. [ ] [Node.js](https://nodejs.org)
-2. [ ] [Visual Studio Code](https://code.visualstudio.com/) or your editor of choice
-3. [ ] [Git](https://git-scm.com/)
+1. [x] [Node.js](https://nodejs.org)
+2. [x] [Visual Studio Code](https://code.visualstudio.com/) or your editor of choice
+3. [x] [Git](https://git-scm.com/)
 
 ### :keyboard: Activity 1: Initialize a new JavaScript project
 
